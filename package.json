@@ -1,5 +1,5 @@
 {
-  "name": "jsonresume-theme-hr-md",
+  "name": "jsonresume-theme-md",
   "version": "0.0.3",
   "description": "JSON Resume Markdown Theme",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Greg-Bush/jsonresume-theme-hr-md.git"
+    "url": "https://github.com/Greg-Bush/jsonresume-theme-md.git"
   },
   "keywords": [
     "json",
@@ -24,7 +24,7 @@
     "md"
   ],
   "bugs": {
-    "url": "https://github.com/Greg-Bush/jsonresume-theme-hr-md/issues"
+    "url": "https://github.com/Greg-Bush/jsonresume-theme-md/issues"
   },
-  "homepage": "https://github.com/Greg-Bush/jsonresume-theme-hr-md"
+  "homepage": "https://github.com/Greg-Bush/jsonresume-theme-md"
 }

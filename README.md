@@ -1,4 +1,4 @@
-# jsonresume-theme-hr-md
+# jsonresume-theme-md
 
 **JSON Resume Markdown Theme Repository**
 
