@@ -29,7 +29,7 @@
     - {{.}}
   {{/highlights}}
 - **Summary:** {{summary}}
-- **URL:** [{{website}}]({{url}})
+- **URL:** [{{url}}]({{url}})
 {{/work}}
 
 ## Projects
